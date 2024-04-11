@@ -8,7 +8,11 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          Archi's academy'in kursuna hoşgeldiniz.React kısmında değişikliği öğreniyoruz...
+<<<<<<< HEAD
          Tekrar amaçlı merge işlemi için ikinci değişiklik yapıldı..
+=======
+       
+>>>>>>> main
         </p>
         <a
           className="App-link"
