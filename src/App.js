@@ -7,8 +7,10 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-         Archi's academy'in kursuna hoşgeldiniz.React kısmında değişikliği öğreniyoruz...
-         İki farklı branch oluşturulup merge işlemi
+         Hoşgeldiniz 
+        </p>
+        <p>
+          Yeni eklenti 3
         </p>
         <a
           className="App-link"
